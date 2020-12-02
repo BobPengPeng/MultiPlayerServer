@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Bobby\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Bobby\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_VirtureInteractionServer.566107030.00" t="ExcludeRecursive" />
+    <e p="F:\Projects\VirtureInteractionServer" t="IncludeFlat">
+      <e p="DataClient" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataClient.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DataClient.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="DataServer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataServer.csproj" t="IncludeRecursive" />
+        <e p="MyServerImpl.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DataServer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="VirtureInteractionServer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="DataAndNetwork.cs" t="Include" />
+        <e p="DataAndNetwork.proto" t="Include" />
+        <e p="DataAndNetworkGrpc.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="VirtureInteractionServer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="VirtureInteractionServer.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="VirtureInteractionServer.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

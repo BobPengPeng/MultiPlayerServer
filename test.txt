@@ -1,0 +1,1 @@
+packages\grpc.tools.2.33.1\tools\windows_x86\protoc.exe -IVirtureInteractionServer --csharp_out VirtureInteractionServer VirtureInteractionServer\DataAndNetwork.proto --grpc_out VirtureInteractionServer --plugin=protoc-gen-grpc=packages\grpc.tools.2.33.1\tools\windows_x86\grpc_csharp_plugin.exe

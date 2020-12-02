@@ -1,0 +1,67 @@
+syntax = "proto3";
+package DataAndNetwork;
+
+service NetWork
+{
+  rpc TransAction(GrpcAction) returns (GrpcFeedMsg){}
+  rpc GetBoradCast(GrpcAction) returns (stream BroadCastMsg){}
+  
+  rpc ServerGetBodyTrans(stream BodyTrans) returns (GrpcFeedMsg){}
+  rpc ClientGetBodyTrans(GrpcAction) returns (stream BodyTrans){}
+  rpc ClientGetTransList(GrpcAction) returns (stream BodyTransList){}
+}
+
+
+message GrpcAction
+{
+  string ActionName = 1;
+}
+
+message GrpcFeedMsg
+{
+  string MsgType = 1;
+}
+
+message BroadCastMsg
+{
+  string MsgType = 1;
+  string Host = 2;
+}
+
+message BodyTransList
+{
+  repeated string DataSource = 1;
+  repeated bool SentState = 2;
+  repeated BodyTrans TransList = 3;
+}
+
+message BodyTrans
+{
+  UnityTrans Head = 1;
+  UnityTrans LeftHand = 2;
+  UnityTrans RightHand = 3;
+
+  repeated UnityTrans LeftFingers = 4;
+  repeated UnityTrans RightFingers = 5;
+}
+
+message UnityTrans
+{
+  UnityVec3 Pos = 1;
+  UnityQuater Rota = 2;
+}
+
+message UnityVec3
+{
+  float X = 1;
+  float Y = 2;
+  float Z = 3;
+}
+
+message UnityQuater
+{
+  float X = 1;
+  float Y = 2;
+  float Z = 3;
+  float W = 4;
+}

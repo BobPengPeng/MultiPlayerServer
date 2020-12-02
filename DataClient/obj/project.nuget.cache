@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbDuv9dK3a0jyAixaK7uZD727AeKROQMAglMQQ7oP1BBtbBKJmFztmijO/Bc2DA54zTic2qrAzy0sXTw7RgBqw==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\VirtureInteractionServer\\DataClient\\DataClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
+    "C:\\Users\\Bobby\\.nuget\\packages\\grpc\\2.33.1\\grpc.2.33.1.nupkg.sha512",
+    "C:\\Users\\Bobby\\.nuget\\packages\\grpc.core\\2.33.1\\grpc.core.2.33.1.nupkg.sha512",
+    "C:\\Users\\Bobby\\.nuget\\packages\\grpc.core.api\\2.33.1\\grpc.core.api.2.33.1.nupkg.sha512",
+    "C:\\Users\\Bobby\\.nuget\\packages\\grpc.tools\\2.33.1\\grpc.tools.2.33.1.nupkg.sha512",
+    "C:\\Users\\Bobby\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Bobby\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

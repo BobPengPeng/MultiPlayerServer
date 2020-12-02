@@ -1,0 +1,9 @@
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\bin\Debug\netcoreapp3.1\VirtureInteractionServer.deps.json
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\bin\Debug\netcoreapp3.1\VirtureInteractionServer.dll
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\obj\Debug\netcoreapp3.1\VirtureInteractionServer.csprojAssemblyReference.cache
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\obj\Debug\netcoreapp3.1\VirtureInteractionServer.AssemblyInfoInputs.cache
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\obj\Debug\netcoreapp3.1\VirtureInteractionServer.AssemblyInfo.cs
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\bin\Debug\netcoreapp3.1\VirtureInteractionServer.pdb
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\obj\Debug\netcoreapp3.1\VirtureInteractionServer.csproj.CoreCompileInputs.cache
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\obj\Debug\netcoreapp3.1\VirtureInteractionServer.dll
+F:\Projects\VirtureInteractionServer\VirtureInteractionServer\obj\Debug\netcoreapp3.1\VirtureInteractionServer.pdb
